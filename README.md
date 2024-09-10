@@ -27,7 +27,7 @@ In this novel investigation we consider the aforementioned and utilise the D-NEM
 
 ## Data Files
 
-* SD_0 (O ns)
+* SD_0 (O.0 ns)
 * SD_100 (0.1 ns)
 * SD_500 (0.5 ns)
 * SD_1000 (1.0 ns)
